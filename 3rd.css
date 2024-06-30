@@ -1,0 +1,84 @@
+
+.body {
+    margin: 0px;
+    
+}
+
+
+.form-heading {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    display: inline-block;
+    color: white;
+}
+
+.container {
+    background: linear-gradient(120deg, #1c99fe 10.69%, #7644ff 45.19%, #fd4766 89.69%);
+    height: 100vh;
+    background-image:url('3rd.jpg');
+}
+}
+
+.detailssection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.error-message {
+    font-family: "Roboto";
+    margin-left: 90px;
+    font-size: 14px;
+    color: #dc3545;
+}
+
+.gender-field-heading {
+    font-size: 18px;
+    color: #212529;
+    margin-bottom: 10px;
+}
+
+.form-class {
+    display: flex;
+    flex-direction: column;
+}
+
+.inputClass {
+    margin-left: 15px;
+    max-width: 250px;
+}
+
+.required {
+    display: flex;
+
+}
+
+.details {
+    min-width: 80px;
+    font-weight: 600;
+
+}
+
+.gender-section {
+    margin-left: 90px;
+}
+
+.button {
+    border: 2px solid;
+    color: white;
+    width: 200px;
+    border-radius: 90px;
+}
+
+.btn-container {
+    margin: 20px;
+    text-align:center ;
+    color:black;
+}
